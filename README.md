@@ -12,7 +12,7 @@
     <a href="mailto:guz42@bk.ru">
       <img src="https://img.shields.io/badge/Email-guz42%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://t.me/Maximka_L">
+    <a href="https://t.me/moses_maxim">
       <img src="https://img.shields.io/badge/Telegram-@moses_maxim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://github.com/Maximka-L">
@@ -193,7 +193,7 @@
 ### 💬 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/Maximka_L">
+  <a href="https://t.me/moses_maxim">
     <img src="https://img.shields.io/badge/Telegram-@moses_maxim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
