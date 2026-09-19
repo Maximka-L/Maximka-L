@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Email-guz42%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://t.me/Maximka_L">
-      <img src="https://img.shields.io/badge/Telegram-@Maximka_L-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-@moses_maxim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://github.com/Maximka-L">
       <img src="https://img.shields.io/badge/GitHub-Maximka--L-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -180,12 +180,12 @@
 ### 📊 Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maximka-L&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=7F52FF&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximka-L&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Maximka-L&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=7F52FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maximka-L&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maximka-L&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Maximka-L&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84" alt="GitHub Streak" />
 </p>
 
 ---
@@ -194,7 +194,7 @@
 
 <p align="center">
   <a href="https://t.me/Maximka_L">
-    <img src="https://img.shields.io/badge/Telegram-@Maximka_L-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@moses_maxim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
   <a href="mailto:guz42@bk.ru">
